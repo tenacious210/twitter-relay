@@ -1,0 +1,7 @@
+# Use a .gitignore file to ignore files & folders that shouldn't be in your repo
+
+.vscode/
+logs/
+.env
+channels.json
+__pycache__
